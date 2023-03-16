@@ -24,5 +24,6 @@ Przycisk "Delete"
 Przycisk "Delete" znajduje się po lewej stronie pola tekstowego. Po zaznaczeniu jednego zadań na liście i kliknięciu przycisku "Delete", zadanie zostanie usunięte z listy.
 Lista zadań
 Lista zadań znajduje się w dolnej części okna aplikacji. Wyświetla ona wszystkie zadania, które zostały dodane przez użytkownika za pomocą pola tekstowego i przycisku "Add". Aby usunąć zadanie z listy, należy zaznaczyć je na liście i kliknąć przycisk "Delete".
-Autorzy
+Autorzy:
+
 Projekt Todo List został napisany przez Sternik, Buczyński, Ślebzak, Stefański.
